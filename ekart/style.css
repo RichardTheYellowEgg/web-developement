@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+}
+#nav{ 
+    text-align: center;
+    font-size: 25px;
+    background-color: black;
+    padding: 10px;
+}
+body{
+    background-color: gray;
+}
+.anchor{
+    text-decoration: none;
+    color: crimson;
+    padding: 15px;
+}
+#prod{
+    font-size: 50px;
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+#money{
+    text-align: center;
+    margin-bottom: 5px;
+}
+p{
+    text-align: center;
+    margin: 5px;
+}
+#mabye{
+    font-size: 30px;
+}
+#jk{
+    font-size: 20px;
+}
+#donos{
+    text-align: center;
+}
+#egg{
+    text-decoration: none;
+    color: crimson;
+    font-size: 20px;
+}
