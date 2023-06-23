@@ -4,15 +4,15 @@
 #nav{ 
     text-align: center;
     font-size: 25px;
-    background-color: black;
+    background-color: rgb(0, 0, 0);
     padding: 10px;
 }
 body{
-    background-color: gray;
+    background-color: rgb(128, 128, 128);
 }
 .anchor{
     text-decoration: none;
-    color: crimson;
+    color: rgb(220, 20, 60);
     padding: 15px;
 }
 #prod{
@@ -41,6 +41,6 @@ p{
 }
 #egg{
     text-decoration: none;
-    color: crimson;
+    color: rgb(220, 20, 60);
     font-size: 20px;
 }
