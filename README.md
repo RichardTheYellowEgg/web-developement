@@ -22,3 +22,9 @@
 * text align: put a text or image in a specific way
 * padding: a space between the element and the border
 * margin: a space between border and the rest of the page
+## gitbash
+* git status: just tells you what you modify in a color of red, green, white, yellow
+* red: git add .
+* green: git commit -m"magic words are put here"
+* white: git push
+* yellow: git pull
