@@ -28,8 +28,3 @@
 * green: git commit -m"magic words are put here"
 * white: git push
 * yellow: git pull
-## shortcuts
-* ctrl+/: comment
-* alt+c: more lines to type in
-* alt+e: move the line
-* alt+click: makes more cursours.
