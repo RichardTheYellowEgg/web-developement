@@ -30,6 +30,5 @@
 * yellow: git pull
 ## shortcuts
 * ctrl+/: comment
-* alt+c: more lines to type in
-* alt+e: move the line
+* alt+up/down arrow key: move the line
 * alt+click: makes more cursours.
