@@ -28,7 +28,11 @@
 * green: git commit -m"magic words are put here"
 * white: git push
 * yellow: git pull
+* up/down arrow keys:go to previous commands
+* tab:auto correct
 ## shortcuts
 * ctrl+/: comment
 * alt+up/down arrow key: move the line
 * alt+click: makes more cursours.
+* tab: basiclly auto complete
+* 
