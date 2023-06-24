@@ -1,18 +1,18 @@
 *{
     margin: 0px;
 }
-#nav{ c
+#nav{ 
     text-align: center;
     font-size: 25px;
-    background-color: rgb(0, 0, 0);
+    background-color: #000;
     padding: 10px;
 }
 body{
-    background-color: rgb(128, 128, 128);
+    background-color: gray;
 }
 .anchor{
     text-decoration: none;
-    color: rgb(220, 20, 60);
+    color: #d33;
     padding: 15px;
 }
 #prod{
@@ -41,6 +41,9 @@ p{
 }
 #egg{
     text-decoration: none;
-    color: rgb(220, 20, 60);
+    color: #DC143C;
     font-size: 20px;
+}
+#image{
+     
 }
