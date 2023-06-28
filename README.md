@@ -35,4 +35,9 @@
 * alt+up/down arrow key: move the line
 * alt+click: makes more cursours.
 * tab: basiclly auto complete
-* 
+## inline
+* alows padding
+* allows margin
+* does not allow width
+* does not allow height
+* takes up content
