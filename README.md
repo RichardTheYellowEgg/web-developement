@@ -23,6 +23,7 @@
 * padding: a space between the element and the border
 * margin: a space between border and the rest of the page
 ## gitbash
+* git cd web: just do this at the start
 * git status: just tells you what you modify in a color of red, green, white, yellow
 * red: git add .
 * green: git commit -m"magic words are put here"
@@ -41,3 +42,15 @@
 * does not allow width
 * does not allow height
 * takes up content
+## block
+* allows padding
+* allows margin
+* allow width
+* allow height
+* takes the whole line
+## inline-block
+* allows padding
+* allows margin
+* allows width
+* allows height
+* takes content space
