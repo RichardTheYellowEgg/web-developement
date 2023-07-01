@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: blue;
+}
+.text{
+    width: 1000px;
+    height: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#button{
+    width: 600px;
+    height: 50px;
+    margin-top: 40px;
+    font-size: 25px;
+}
+#contact{
+    font-size: 100px;
+    font: bold;
+    margin-bottom: 75px;
+    color: rgb(255, 224, 186);
+}
+.label{
+    font-size: 30px;
+    color: rgb(56, 22, 30);
+}
+.thing{
+    display: block;
+}
+.all{
+    text-align: center;
+}
+#cat{
+    
+}
