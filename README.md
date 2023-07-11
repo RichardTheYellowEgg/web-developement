@@ -22,6 +22,7 @@
 * text align: put a text or image in a specific way
 * padding: a space between the element and the border
 * margin: a space between border and the rest of the page
+* center if text align center no work= margin-left auto margin-right auto
 ## gitbash
 * git cd web: just do this at the start
 * git status: just tells you what you modify in a color of red, green, white, yellow
@@ -54,3 +55,11 @@
 * allows width
 * allows height
 * takes content space
+## border
+* border class
+* border circle
+* border pill
+* border top
+* border bottom
+* border end
+* border is border
