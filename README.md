@@ -22,6 +22,7 @@
 * text align: put a text or image in a specific way
 * padding: a space between the element and the border
 * margin: a space between border and the rest of the page
+* margin left or right: margin goes in that direction
 * center if text align center no work= margin-left auto margin-right auto
 ## gitbash
 * git cd web: just do this at the start
@@ -63,3 +64,14 @@
 * border bottom
 * border end
 * border is border
+## bootstrap
+* blue: primary
+* yellow: warning
+* green: success
+* red: danger
+* black: dark
+* white: light or white
+* gray: secondary
+* cyan: info
+* transparent: transparent
+* round: circle, pill
