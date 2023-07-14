@@ -75,3 +75,7 @@
 * cyan: info
 * transparent: transparent
 * round: circle, pill
+## javascript
+* variables: you can change its value
+* literals: you can't change its value
+* naming conventions: con not have symbols but letters, words, number, _ and $. the first word is lowcase and the next letter in the next word is uppercase
