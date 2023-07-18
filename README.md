@@ -90,3 +90,6 @@
 * const: not changable
 * let: newer var, changeable
 * var: older let, changeable
+## assignment variables
+* all of the assignment variables go from left to right
+* if dividend < dividor then %  operator will give dividend as the answer
