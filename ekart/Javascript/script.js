@@ -73,3 +73,46 @@ document.querySelector("#heading1").textContent = "soup";
 // age += 2;
 
 // age=age+2;
+
+// arithimic operator
+
+// console.log(3**3);
+
+// console.log(2+3);
+
+// console.log(2%3);
+
+// console.log(2/3);
+
+// console.log(2-3);
+
+// console.log(2*3);
+
+// console.log(a--);
+
+// console.log(a++);
+
+// you can declare multiple variables in single line
+
+// let a=4, b=2, c=6;
+
+// console.log(a,b,c);
+
+// let x=4;
+
+// let x=5;
+
+// var can redeclere and let cant 
+
+// var x=65;
+
+// var x=2;
+
+// x=5000;
+// let x;
+// console.log(x);
+
+
+// x=5000;
+// var x;
+// console.log(x);
