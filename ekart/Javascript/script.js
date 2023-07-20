@@ -109,10 +109,56 @@ document.querySelector("#heading1").textContent = "soup";
 // var x=2;
 
 // x=5000;
-// let x;
-// console.log(x);
 
+// let x;
+
+// console.log(x);
 
 // x=5000;
+
 // var x;
+
 // console.log(x);
+thing = 2;
+if( thing>1){
+    console.log("HES PULLING HIS DOCK OUT")
+}
+else if(thing>0){
+    console.log("dock 👍")
+}
+else{
+    console.log("👍")
+}
+if(2 == 3){
+    console.log("co co nut")
+}
+else if(2 == 3){
+    console.log("nut co co")
+}
+else{
+    console.log("nut nut nut")
+}
+// if(2 == 3){
+//     console.log("equal");
+// }
+// if(2 == 4){
+//     console.log("not equal");
+// }
+// if(2 == 5){
+//     console.log("dont know");
+// }
+// if(false == true){
+//     console.log("not possible");
+// }
+// if(true){
+//     console.log("true");
+// }
+// else if(5 != 3){
+//     console.log("not equal 5 and 3");
+// }
+// else if(4 != 4){
+//     console.log("not equal 4 and 4");
+// }
+// else{
+//     console.log("Default value!!");
+// }
