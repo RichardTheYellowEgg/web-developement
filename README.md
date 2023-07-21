@@ -1,4 +1,7 @@
 # WEB-DEVELOPMENT
+## basic
+* An operator is capable of manipulating a certain value or operand.
+* **=ex
 ## HTML
 *<img src="https://cdn3.emoji.gg/emojis/6276-spinning-cat.gif" alt="">
 * html: the code base
