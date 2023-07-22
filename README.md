@@ -97,3 +97,4 @@
 * all of the assignment variables go from left to right
 * if dividend < dividor then %  operator will give dividend as the answer
 * var can redeclere and let can't
+##  for every power of 2 thats were 1 goes
