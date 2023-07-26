@@ -1,6 +1,6 @@
-document.querySelector(".heading").textContent = "magic";
+document.querySelector(".heading").textContent = "not the soviet anthem";
 
-document.querySelector("#heading1").textContent = "soup";
+document.querySelector("#heading1").textContent = "real";
 
 // console.log(12 * 23);
 
@@ -119,49 +119,49 @@ document.querySelector("#heading1").textContent = "soup";
 // var x;
 
 // console.log(x);
-// thing = 2;
-// if( thing>1){
-//     console.log("HES PULLING HIS DOCK OUT")
-// }
-// else if(thing>0){
-//     console.log("dock 👍")
-// }
-// else{
-//     console.log("👍")
-// }
+thing = 2;
+if( thing>1){
+    console.log("HES PULLING HIS DOCK OUT")
+}
+else if(thing>0){
+    console.log("dock 👍")
+}
+else{
+    console.log("👍")
+}
+if(2 == 3){
+    console.log("co co nut")
+}
+else if(2 == 3){
+    console.log("nut co co")
+}
+else{
+    console.log("nut nut nut")
+}
 // if(2 == 3){
-//     console.log("co co nut")
+//     console.log("equal");
 // }
-// else if(2 == 3){
-//     console.log("nut co co")
+// if(2 == 4){
+//     console.log("not equal");
+// }
+// if(2 == 5){
+//     console.log("dont know");
+// }
+// if(false == true){
+//     console.log("not possible");
+// }
+// if(true){
+//     console.log("true");
+// }
+// else if(5 != 3){
+//     console.log("not equal 5 and 3");
+// }
+// else if(4 != 4){
+//     console.log("not equal 4 and 4");
 // }
 // else{
-//     console.log("nut nut nut")
+//     console.log("Default value!!");
 // }
-// // if(2 == 3){
-// //     console.log("equal");
-// // }
-// // if(2 == 4){
-// //     console.log("not equal");
-// // }
-// // if(2 == 5){
-// //     console.log("dont know");
-// // }
-// // if(false == true){
-// //     console.log("not possible");
-// // }
-// // if(true){
-// //     console.log("true");
-// // }
-// // else if(5 != 3){
-// //     console.log("not equal 5 and 3");
-// // }
-// // else if(4 != 4){
-// //     console.log("not equal 4 and 4");
-// // }
-// // else{
-// //     console.log("Default value!!");
-// // }
 // x = 13
 // y = 2
 // z = 12
@@ -221,4 +221,17 @@ document.querySelector("#heading1").textContent = "soup";
 // }
 // else{
 //     console.log("Default value");
-// }
+//  }
+// DOM munipulations
+// how to change the css useing javascript
+document.querySelector(".body").style.backgroundColor = "rgba(100,25,255)";
+document.querySelector(".heading").style.color = "rgba(20,50,0)"
+document.querySelector(".heading").style.textAlign = "center"
+document.querySelector("#heading1").style.textAlign = "center"
+document.querySelector("#img").style.marginTop = "710px"
+document.querySelector("#img").style.marginLeft = "1700px"
+document.querySelector("#insane").style.textAlign = "center"
+const numbers = document.querySelectorAll(".numbers")
+for (let i = 0; i < numbers.length; i++) {
+    numbers[i].style.textAlign = "center";
+  }
