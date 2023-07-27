@@ -1,0 +1,5 @@
+document.querySelector("#text_1").style.textAlign = "center"
+document.querySelector("#text_1").style.marginTop = "300px"
+document.querySelector("#text_2").style.textAlign = "center"
+document.querySelector("#body").style.backgroundColor = "rgb(255,0,0)"
+document.querySelector(".dropdown").style.marginLeft = "1500px"
