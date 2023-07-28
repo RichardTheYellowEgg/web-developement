@@ -1,5 +1,30 @@
+*{
+    background-color: red;
+}
 .emailaddress{
     width: 400px;
     margin-left: auto;
     margin-right: auto;
+    color: black !important;
+}
+.drop{
+    margin-left: 820px;
+    width: 100px !important;
+    color: black !important;
+}
+#text_1{
+    color: white;
+}
+#text_2{
+    color: white;
+}
+#body{
+    background-color: red;
+}
+.not{
+    color: white;
+    display: inline;
+}
+#floatingInput{
+    color: black;
 }
