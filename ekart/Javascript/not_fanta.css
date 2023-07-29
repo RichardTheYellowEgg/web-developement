@@ -1,0 +1,19 @@
+
+.fantaimg{
+    width: 150px;
+    height: 75px;
+    margin-left: 20px;
+}
+.icon{
+    margin-left: 1000px;
+    margin-right: 100px;
+    width: 25px;
+    height: 25px;
+}
+.product{
+    margin-left: 200px;
+    /* margin-right: 200px; */
+}
+.navbar{
+    background-color: orange;
+}
