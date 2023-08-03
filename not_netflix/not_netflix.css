@@ -1,5 +1,5 @@
 *{
-    background-color: red;
+    /* background-color: black; */
 }
 .emailaddress{
     width: 400px;
@@ -11,20 +11,30 @@
     margin-left: 820px;
     width: 100px !important;
     color: black !important;
+    background-color: transparent;
 }
 #text_1{
     color: white;
+    font-size: 70px;
 }
 #text_2{
     color: white;
+    font-size: 30px;
 }
 #body{
-    background-color: red;
+    background-color: black;
+    background-image: linear-gradient(to top, 
+    #00000000, #000000c9), linear-gradient(to bottom, 
+    #00000000, #000000c9), url("https://assets.nflxext.com/ffe/siteui/vlv3/b85863b0-0609-4dba-8fe8-d0370b25b9ee/a1f7d402-a554-442d-92e4-3e4be79ae155/US-en-20230731-popsignuptwoweeks-perspective_alpha_website_large.jpg");
 }
 .not{
     color: white;
     display: inline;
 }
-#floatingInput{
-    color: black;
+#no{
+    color: white;
+    background-color: red;
+}
+.bar{
+    margin-top: 15px;
 }
