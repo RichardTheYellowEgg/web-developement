@@ -1,17 +1,13 @@
 *{
     /* background-color: black; */
-}
-.emailaddress{
-    width: 400px;
-    margin-left: auto;
-    margin-right: auto;
-    color: black !important;
+    margin: 0;
+    padding: 0;
 }
 .drop{
-    margin-left: 820px;
+    margin-left: 0px;
     width: 100px !important;
-    color: black !important;
-    background-color: transparent;
+    color: white !important;
+    background-color: black !important;
 }
 #text_1{
     color: white;
@@ -36,5 +32,35 @@
     background-color: red;
 }
 .bar{
-    margin-top: 15px;
+    margin-top: 14px;
+}
+.netlogo{
+    margin-left: 365px;
+}
+.buttonbegone{
+    padding: 3px;
+    margin-left: 15px;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    border: 2px solid red;
+}
+.emailthing{
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.box{
+    background-color: transparent;
+    color: white;
+    border-radius: 5px;
+    border: 2px thin white;
+    padding: 3px;
+}
+.yesh{
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    border: 2px thin white;
+    padding: 1px;
 }
