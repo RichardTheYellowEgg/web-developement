@@ -46,7 +46,7 @@
     border: 2px solid red;
 }
 .emailthing{
-    width: 250px;
+    width: 300px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -62,5 +62,5 @@
     color: white;
     border-radius: 5px;
     border: 2px thin white;
-    padding: 1px;
+    padding: 3px;
 }
